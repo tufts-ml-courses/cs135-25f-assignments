@@ -1,7 +1,7 @@
 '''
 Code for spliting a dataset into train and test sets.
 
-Please complete the function split_into_train_and_test
+Please complete the function `split_into_train_and_test`
 
 Examples
 --------
